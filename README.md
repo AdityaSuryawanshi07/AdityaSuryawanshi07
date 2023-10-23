@@ -6,7 +6,7 @@
 -
 - - 💞️  Ask me about HTML,C,C++,Java,
   - 
-- 📫 How to reach me suryawanshiadi07/2gmail.com
+- 📫 How to reach me suryawanshiadi07@gmail.com
 
 <!---
 AdityaSuryawanshi07/AdityaSuryawanshi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
