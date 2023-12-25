@@ -6,7 +6,9 @@
 -
 - - 💞️  Ask me about HTML,C,C++,Java,Bootsrap
 
-- 📫 How to reach me suryawanshiadi07@gmail.com
+- 📫 How to reach me:- suryawanshiadi07@gmail.com
+
+- LinkdIn Id :- www.linkedin.com/in/aditya-suryawanshi07
 
 <!---
 AdityaSuryawanshi07/AdityaSuryawanshi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
