@@ -4,8 +4,8 @@
 - 
 - 🌱 I’m currently learning Full Stack Java Web-development.
 -
-- - 💞️  Ask me about HTML,C,C++,Java,
-  - 
+- - 💞️  Ask me about HTML,C,C++,Java,Bootsrap
+
 - 📫 How to reach me suryawanshiadi07@gmail.com
 
 <!---
