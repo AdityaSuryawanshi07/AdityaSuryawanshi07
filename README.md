@@ -12,6 +12,8 @@
 
 - Instagram Id - https://www.instagram.com/_adityasuryawanshi/
 
+- Replit Id - https://replit.com/@AdityaSuryawan9
+
 <!---
 AdityaSuryawanshi07/AdityaSuryawanshi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
